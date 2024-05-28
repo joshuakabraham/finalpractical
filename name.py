@@ -1,2 +1,2 @@
 name = "Your Name"
-printf("My name is", name)
+print("My name is", name)
